@@ -1,0 +1,10 @@
+{
+    "name": "mbyrdziak/php-koans",
+    "authors": [
+        {
+            "name": "mbyrdziak",
+            "email": "mbyrdziak@gmail.com"
+        }
+    ],
+    "require": {}
+}
