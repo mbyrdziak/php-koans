@@ -1,10 +1,11 @@
 {
-    "name": "mbyrdziak/php-koans",
-    "authors": [
-        {
-            "name": "mbyrdziak",
-            "email": "mbyrdziak@gmail.com"
-        }
-    ],
-    "require": {}
+	"name" : "mbyrdziak/php-koans",
+	"authors" : [{
+			"name" : "mbyrdziak",
+			"email" : "mbyrdziak@gmail.com"
+		}
+	],
+	"require" : {
+		"phpunit/phpunit" : "4.5.0"
+	}
 }
